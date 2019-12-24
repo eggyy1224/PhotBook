@@ -391,7 +391,7 @@ textarea{font-family:Calibri;}
 }
 	
 .logoBar{
-	display: none;
+	visibility: hidden;
 	position: absolute;
 	left: 5px;
 	top:0px;
