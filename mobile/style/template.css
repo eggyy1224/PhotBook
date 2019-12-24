@@ -330,6 +330,7 @@ textarea{font-family:Calibri;}
 }
   
 .fbTopBar{
+	visibility: hidden;
 	position: absolute;
   overflow: hidden;  
   z-index: 99;
@@ -391,7 +392,6 @@ textarea{font-family:Calibri;}
 }
 	
 .logoBar{
-	visibility: hidden;
 	position: absolute;
 	left: 5px;
 	top:0px;
